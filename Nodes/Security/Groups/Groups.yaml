@@ -1,0 +1,7 @@
+Name: Groups
+Id: g=33ac98afcbbcd645bc8146197074cc43
+Type: GroupsCategoryFolder
+Children:
+- Name: readers
+  Id: g=087d53e1f9189b590ebe752cfed2540e
+  Type: GroupType

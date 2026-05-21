@@ -16,3 +16,6 @@ ProjectFiles/UserDefinedModule.xml
 !LICENSE
 !*.optixt
 ProjectFiles/PKI/Own/Certs/
+
+!CONTRIBUTING.md
+!SECURITY.md

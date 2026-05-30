@@ -17,7 +17,7 @@ Use the following Docker Compose to start the LDAP server and some other useful 
 > This compose is meant for testing and development purposes, it is not production ready, do not use it in production environments without proper security hardening and configuration
 
 > [!WARNING]
-> Rockwell automation is not affiliated with the maintainers of the images used in this compose, these images were chosen because they are popular and easy to use, but they may have security vulnerabilities or other issues, make sure to review the images and their configurations before using them
+> Rockwell Automation is not affiliated with the maintainers of the images used in this compose, these images were chosen because they are popular and easy to use, but they may have security vulnerabilities or other issues, make sure to review the images and their configurations before using them
 
 This compose includes:
 
